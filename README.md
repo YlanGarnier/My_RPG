@@ -1,14 +1,11 @@
 # My_RPG
-
 My_RPG is a rpg like game made at Epitech technology in C using the CSFML graphical library which is the SFML library adapted to C.
 
 ## Description
-
 You play as an adventurer who finds himself by chance in a village invaded by strange creatures.<br/>
 Will you be brave enough to save the villagers?
 
 ## Quickstart
-
 To build CSFML graphics library
 
 ```bash
@@ -22,7 +19,6 @@ make re
 ```
 
 ## How To Play
-
 ### Explore the map
 Find all the golden chests to collect the 7 keys needed to open the door at the top of the map. Beware of the Legendary silver warrior who is waiting you there !
 
@@ -32,10 +28,9 @@ They will give you quest and hints about the location of the chests.
 ### Defeat ennemies
 Gain experience and collect eatable object in the normal chests, both will improve your statistics !
 
-
 ## Our Team :heart:
 
-Developers
+<b>Developers</b>
 | [<img src="https://github.com/YlanGarnier.png?size=85" width=85><br><sub>[Ylan Garnier]</sub>](https://github.com/YlanGarnier) | [<img src="https://github.com/yorennz.png?size=85" width=85><br><sub>[Yorennz Zelina]</sub>](https://github.com/yorennz) | [<img src="https://github.com/BenjaminKoskas.png?size=85" width=85><br><sub>[Benjamin Koskas]</sub>](https://github.com/BenjaminKoskas) | [<img src="https://github.com/Nortecele.png?size=85" width=85><br><sub>[Julian Fremont]</sub>](https://github.com/Nortecele) |
 | :---: | :---: | :---: | :---: |
 
