@@ -1,6 +1,6 @@
 # My_RPG
 Horror role playing game in C using the CSFML graphical library.</br>
-This game was realized as part of a school project at Epitech Paris.
+This game was realized as part of a school project at Epitech Technology.
 
 ## Description
 You play as an adventurer who finds himself by chance in a village invaded by strange creatures.<br/>
