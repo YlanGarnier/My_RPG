@@ -28,7 +28,7 @@ Gain experience and collect eatable object in the normal chests, both will impro
 
 Developers
 | [<img src="https://github.com/YlanGarnier.png?size=85" width=85><br><sub>[Ylan Garnier]</sub>](https://github.com/YlanGarnier) | [<img src="https://github.com/yorennz.png?size=85" width=85><br><sub>[Yorennz Zelina]</sub>](https://github.com/yorennz) | [<img src="https://github.com/BenjaminKoskas.png?size=85" width=85><br><sub>[Benjamin Koskas]</sub>](https://github.com/BenjaminKoskas) | [<img src="https://github.com/Nortecele.png?size=85" width=85><br><sub>[Julian Fremont]</sub>](https://github.com/Nortecele) |
-| :---: | :---: |
+| :---: | :---: | :---: | :---: |
 
 <h2 align=center>
 Socials Networks
