@@ -1,5 +1,6 @@
 # My_RPG
-My_RPG is a rpg like game made at Epitech technology in C using the CSFML graphical library which is the SFML library adapted to C.
+Horror role playing game in C using the CSFML graphical library.</br>
+This game was realized as part of a school project at Epitech Paris.
 
 ## Description
 You play as an adventurer who finds himself by chance in a village invaded by strange creatures.<br/>
