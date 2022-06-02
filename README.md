@@ -8,14 +8,14 @@ My_RPG is a rpg like game made at Epitech technology in C using the CSFML graphi
 
 To build CSFML
 
-```
+```bash
 sudo ./BUILD_CSFML.sh
 ```
 
 To build My_RPG
 
 ```bash
-make (re)
+make re
 ```
 
 ## How To Play
