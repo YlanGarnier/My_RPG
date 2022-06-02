@@ -2,11 +2,14 @@
 
 My_RPG is a rpg like game made at Epitech technology in C using the CSFML graphical library which is the SFML library adapted to C.
 
-## Getting Started
+## Description
 
-### Quickstart
+You play as an adventurer who finds himself by chance in a village invaded by strange creatures.<br/>
+Will you be brave enough to save the villagers?
 
-To build CSFML
+## Quickstart
+
+To build CSFML graphics library
 
 ```bash
 sudo ./BUILD_CSFML.sh
@@ -41,7 +44,19 @@ Socials Networks
 </h2>
 
 <p align='center'>
+    Ylan Garnier
+</p>
+<p align='center'>
     <a href="https://www.linkedin.com/in/ylan-garnier/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+
+<p align='center'>
+    Yorennz Zelina
+</p>
+<p align='center'>
+    <a href="https://www.linkedin.com/in/yorennz-zelina/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
