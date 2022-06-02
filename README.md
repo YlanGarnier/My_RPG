@@ -7,7 +7,7 @@ You play as an adventurer who finds himself by chance in a village invaded by st
 Will you be brave enough to save the villagers?
 
 ## Quickstart
-To build CSFML graphics library
+To build CSFML graphical library
 
 ```bash
 sudo ./BUILD_CSFML.sh
